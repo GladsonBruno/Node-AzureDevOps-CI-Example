@@ -23,3 +23,15 @@ Execute o seguinte comando para execução em produção:
 npm install
 npm run start:prod
 ```
+
+## Execução de teste unitário
+Execute o seguinte comando:
+```sh
+npm run test
+```
+
+## Execução de teste unitário com report de code coverage
+Execute o seguinte comando:
+```sh
+npm run test:sonar
+```
