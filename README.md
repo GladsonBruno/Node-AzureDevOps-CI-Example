@@ -1,3 +1,5 @@
+[![Build Status](https://gladsonbruno16.visualstudio.com/Portfolio_DevOps/_apis/build/status/Node-AzureDevOps-CI-Example?repoName=GladsonBruno%2FNode-AzureDevOps-CI-Example&branchName=master)](https://gladsonbruno16.visualstudio.com/Portfolio_DevOps/_build/latest?definitionId=8&repoName=GladsonBruno%2FNode-AzureDevOps-CI-Example&branchName=master)
+
 # Visão Geral
 Projeto de exemplo criado apenas para fins de exemplificação de automação DevOps com Azure DevOps.
 
