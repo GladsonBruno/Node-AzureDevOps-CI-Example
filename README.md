@@ -3,12 +3,17 @@ Projeto de exemplo criado apenas para fins de exemplificação de automação De
 
 Estará contemplado:
 
-Scan SonarCloud
-Teste unitário
-Code Coverage
-Build de container
-Teste de container
-Pipeline templatizada
+* Scan SonarCloud
+
+* Teste unitário
+
+* Code Coverage
+
+* Build de container
+
+* Teste de container
+
+* Pipeline templatizada
 
 ## Execução Local
 Execute o seguinte comando para execução local:
